@@ -1,4 +1,8 @@
 # CHANNEL ID BOT
+
+[![telegram badge](https://img.shields.io/badge/Chnlidbot-30302f?style=flat&logo=telegram)](https://t.me/chnlidbot)
+
+
 A SIMPLE TELEGRAM BOT TO FIND YOUR CHANNEL ID AND USERID.
 
 EXAMPLE:- [@CHNLIDBOT](https://t.me/chnlidbot)
