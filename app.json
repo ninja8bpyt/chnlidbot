@@ -1,1 +1,25 @@
+{
+    "name": "Channel id bot",
+    "description": "A simple bot to fetch Telegram Channel id",
+    "keywords": [
+        "Telegram",
+        "Bot",
+        "Channel"
+    ],
+    "logo": "https://telegra.ph/file/1794c81b97fc30dcefeb2.png",
+    "repository": "https://github.com/Benchamxd/Chnlidbot",
+    "success_url": "/",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "your Telegram Bot Token, from @BotFather"
+        },
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
 
