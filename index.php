@@ -6,7 +6,7 @@ PLEASE DONT REMOVE THIS CREDITS
 */
 
 ob_start();
-define('API_KEY','YOUR BOT TOKEN'); // put your token here
+define('API_KEY','$BOT_TOKEN'); // put your token here
 ini_set("log_errors","off");
 function bot($method,$datas=[]){
 $url = "https://api.telegram.org/bot".API_KEY."/".$method;
