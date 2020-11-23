@@ -13,6 +13,9 @@
         "BOT_TOKEN": {
             "description": "your Telegram Bot Token, from @BotFather"
         },
+        "START_MESSAGE": {
+            "description": "A start message for your bot. Add /get command"
+        }
     },
     "formation": {
         "web": {
