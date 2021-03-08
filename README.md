@@ -11,3 +11,5 @@ ADD TOKEN OF YOUR BOT ON LINE 9 IN index.php AND HOST ON FREE HOST SUCH AS 00WEB
 
 FOR ANY HELP COTACT ME [HERE](https://t.me/induschats)
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
